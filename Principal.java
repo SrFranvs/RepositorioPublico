@@ -1,4 +1,4 @@
-// Al ser un ejercicio rápido no hay ningún tipo de control por teclado, cualquier dato mal introducido rompe el programa
+//  Al ser un ejercicio rápido no hay ningún tipo de control por teclado, cualquier dato mal introducido rompe el programa
 import java.util.Scanner;
 
 public class Principal {

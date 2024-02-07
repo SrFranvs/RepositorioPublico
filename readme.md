@@ -1,4 +1,4 @@
-# Explicación 
+# Explicación del úttimo ejercicio 
 ## Tanto de la clase Usuario como la clase Principal
 
 Aquí comento por encima las nuevas funcionalidades. En la clase usuario es el molde que vamos a utilizar para crear los usuarios; como podemos ver
